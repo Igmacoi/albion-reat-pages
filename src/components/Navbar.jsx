@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="flex space-x-6">
       <Link to="/" className="hover:text-orange-400">Home</Link>
-      <Link to="/PagesCalculatorMats" className="hover:text-orange-400">Calculadira Refinado</Link>
+      <Link to="/PageCalculatorMatsRef" className="hover:text-orange-400">Calculadira Refinado</Link>
     </nav>
   );
 }
