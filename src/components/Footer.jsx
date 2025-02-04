@@ -3,7 +3,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className="bg-white/10 backdrop-blur-md text-white p-1 my-3 mx-10 shadow-lg rounded-lg">
+    <footer className="bg-white/2 backdrop-blur-md shadow-lg rounded-lg text-white p-1 my-3 mx-10 mb-3">
       <div className="container mx-auto flex justify-between items-center">
         {/* Título en el centro */}
         <div className="flex-1 text-center text-xl font-semibold">
